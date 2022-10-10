@@ -1,7 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  /* color: #212121; */
-  color: red;
+  color: #212121;
   --background-header-color: #fff;
   --mouse-over-color: #2196f3;
   --mouse-over-text-color: #fff;
